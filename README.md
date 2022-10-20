@@ -14,3 +14,5 @@ I tried following the instructions specified below “Redline” to follow the s
 
 I am trying to write Unit Test using JEST and redux mock store. As I have committed to complete the task by today EOD. I will try adding the Unit test by tomorrow.
 ![alt text](Unit_test_in_react.png "Unit Test")
+
+As I mentioned yesterday that I will be updating the code with unit test within 20/10/2022. I have completed and updated the code and pushed it to git . Kindly check the above img as reference to the unit test in react.
